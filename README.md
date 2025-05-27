@@ -11,10 +11,9 @@
 ###
 
 <p align="left">
-✨ Creating bugs since 2020<br>
 📚 I'm currently learning advanced software architecture, full-stack development, and AI/ML systems<br>
 🎯 Goals: To build impactful tech that bridges accessibility, creativity, and intelligence across digital systems<br>
-🎲 Fun fact: In my free time, I love solving jigsaw puzzles 🧩 and I’m also a trained professional dancer 💃 with over 16 years of experience!
+🎲 Fun fact: In my free time, I love solving jigsaw puzzles 🧩 and I’m also a trained professional dancer 💃 for over 16 years!
 </p>
 
 ###
