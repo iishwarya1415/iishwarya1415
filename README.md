@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ishwarya Rajkumar
 =========================================================================================================================================
 
-As someone who loves solving jigsaw puzzles, coding has always felt like assembling pieces into something meaningful. This passion led me to pursuing a Master’s in Computer Science. I’ve grown from building web apps to developing full-stack systems, AI/ML pipelines, and IoT solutions using tools like React, Python, and AWS.
+As someone who loves solving jigsaw puzzles, coding has always felt like assembling pieces into something meaningful. This passion led me to pursuing a Master’s in Computer Science. I’ve grown from building web apps to developing full-stack systems and AI/ML pipelines.
 
 * 🌍  I'm based in Boston, MA, USA
 * ✉️  You can contact me at [rishwarya243@gmail.com](mailto:rishwarya243@gmail.com)
